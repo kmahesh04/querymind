@@ -1,0 +1,9 @@
+google-genai
+fastapi
+uvicorn
+pydantic
+python-dotenv
+streamlit
+pandas
+requests
+pytest

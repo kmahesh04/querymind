@@ -1,0 +1,20 @@
+# Secrets: never commit API keys
+.env
+
+# Runtime files
+data/query_log.jsonl
+data/examples_embeddings.json
+evals/results/progress.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
